@@ -1,0 +1,44 @@
+<h2>Editar Veiculo. ID {{vehicle.id}}</h2>
+<form class="row g-3" (ngSubmit)="saveVehicle()" #vehicleForm="ngForm">
+  <div class="col-md-6">
+    <label class="form-label">Marca</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.make" name="make" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Modelo</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.model" name="model" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Série</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.series" name="series" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Imagem</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.image" name="image" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Ano</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.year" name="year" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Quilómetros</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.kms" name="kms" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Matricula</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.licensePlate" name="licensePlate" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Preço Particulares</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.privatePrice" name="privatePrice" required>
+  </div>
+  <div class="col-md-6">
+    <label class="form-label">Preço Profissionais</label>
+    <input type="text" class="form-control" [(ngModel)]="vehicle.professionalPrice" name="professionalPrice" required>
+  </div>
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary me-3"
+            [disabled]="!vehicleForm.form.valid">Guardar</button>
+    <a class="btn btn-secondary" routerLink="/list">Cancelar</a>
+  </div>
+</form>

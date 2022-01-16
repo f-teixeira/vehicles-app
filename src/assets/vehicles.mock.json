@@ -1,0 +1,2997 @@
+{
+    "_embedded": {
+      "results": [
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/jR9v5/renault-clio-break-gasolina",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_12f73f83-b900-4785-bcdc-4100016978f6.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/12f73f83-b900-4785-bcdc-4100016978f6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_2fda3a27-a5eb-440d-9b35-32335d0611ec.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/2fda3a27-a5eb-440d-9b35-32335d0611ec.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_9af639e4-3274-4cdf-8c6d-d5a600075e0c.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/9af639e4-3274-4cdf-8c6d-d5a600075e0c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_1e4c00ce-c112-4479-ad23-6e4f9ccdd7ce.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/1e4c00ce-c112-4479-ad23-6e4f9ccdd7ce.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_ae351518-1a84-4dcf-bb1f-394dfbb425bf.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/ae351518-1a84-4dcf-bb1f-394dfbb425bf.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_75f77dec-1a2a-42c8-aede-b8150987acc4.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/75f77dec-1a2a-42c8-aede-b8150987acc4.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_b8deebaa-04f2-4356-a98c-5f1632c81456.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/b8deebaa-04f2-4356-a98c-5f1632c81456.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_de200373-2b2f-4c0f-8da5-aa8b9ef6da0f.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/de200373-2b2f-4c0f-8da5-aa8b9ef6da0f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_d5f1ace1-ab4c-4c98-bbe1-e8dd5e45e757.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/d5f1ace1-ab4c-4c98-bbe1-e8dd5e45e757.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_283b3b17-d5c9-4798-8f4e-2fa398f587aa.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/283b3b17-d5c9-4798-8f4e-2fa398f587aa.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_e3ae2241-3409-465b-b851-b43dfebcd153.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/e3ae2241-3409-465b-b851-b43dfebcd153.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_aa8dedda-701c-445d-9fd4-a8c9644e3207.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/aa8dedda-701c-445d-9fd4-a8c9644e3207.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_9f005810-6dc6-4e2e-acac-47043b266940.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/9f005810-6dc6-4e2e-acac-47043b266940.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_7756197c-3916-45ae-92c4-3fee8ab851b6.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/7756197c-3916-45ae-92c4-3fee8ab851b6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_a14f82d4-5ac3-44c3-8d0e-4f0f94bb9933.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/a14f82d4-5ac3-44c3-8d0e-4f0f94bb9933.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_3f22d76f-5065-4ad8-8602-ca6dc889b6a8.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/3f22d76f-5065-4ad8-8602-ca6dc889b6a8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_04b44420-29b9-45c2-b12f-d98eb953ab8e.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/04b44420-29b9-45c2-b12f-d98eb953ab8e.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_30fd7743-c8bb-40bd-9843-ea84690c4aa5.jpg",
+                "position": 18,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/30fd7743-c8bb-40bd-9843-ea84690c4aa5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/thumb_3a46464b-a800-48f7-af4c-9a82401d815e.jpg",
+                "position": 19,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_jR9v5/3a46464b-a800-48f7-af4c-9a82401d815e.jpg"
+              }
+            ],
+            "description_url": "renault-clio-break-gasolina",
+            "fuel": {
+              "name": "Gasolina",
+              "id": "xE"
+            },
+            "price_b2b": 6850,
+            "type": {
+              "name": "Carrinha",
+              "id": "bR"
+            },
+            "deductible_tax": false,
+            "register_month": 1,
+            "certification": false,
+            "kms": 131000,
+            "register_year": 2010,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "license_plate": "00-00-00",
+            "engine_information": {
+              "cylinder_capacity_cc": 1200,
+              "power_hp": 100
+            },
+            "nuts": {
+              "nuts3_name": "Cávado",
+              "code": "PT112",
+              "id": "xE"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 6850,
+            "imported": false,
+            "serie": {
+              "name": "1.2 TurboCE GPS Dynamique S 100Cv",
+              "id": "a4bd234e-c11f-3d0c-a5a0-d1bd9571d071"
+            },
+            "model": {
+              "name": "Clio Break",
+              "id": "vPjq"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/thumb_9c12ab91-f527-42fe-9d63-f630584a590f.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/9c12ab91-f527-42fe-9d63-f630584a590f.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "57",
+                "address": "Rua  Cidade do Porto",
+                "city": "Braga",
+                "floor_number": "",
+                "postal_code": "4705-086"
+              },
+              "stand_url": "/stand/p8Q/viaturas-em-braga",
+              "description_url": "viaturas-em-braga",
+              "commercial_name": "Viaturas em Braga",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": false,
+                "covid19_safe_badge": false,
+                "description_url": "becmarvas-unipessoal-lda",
+                "name": "Becmarvas, Unipessoal, Lda",
+                "partner_credibom": false,
+                "company_url": "/company/BEb/becmarvas-unipessoal-lda",
+                "id": "BEb"
+              },
+              "id": "p8Q",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "911111725",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.viaturasembraga.com",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Renault",
+              "id": "9M"
+            }
+          },
+          "sort": [
+            1634291025295,
+            1634291007222,
+            1634291025296,
+            "jR9v5"
+          ],
+          "index_id": "jR9v5"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/4Qyzv/volkswagen-jetta-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_4Qyzv/thumb_9955e19e-4ef9-408d-b4fb-7b094ea85945.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_4Qyzv/9955e19e-4ef9-408d-b4fb-7b094ea85945.jpg"
+              }
+            ],
+            "description_url": "volkswagen-jetta-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 1,
+            "type": {
+              "name": "Executivo",
+              "id": "W2"
+            },
+            "deductible_tax": false,
+            "register_month": 6,
+            "certification": false,
+            "kms": 145000,
+            "register_year": 2011,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "license_plate": "00-00-00",
+            "engine_information": {
+              "cylinder_capacity_cc": 1600,
+              "power_hp": 115
+            },
+            "nuts": {
+              "nuts3_name": "Cávado",
+              "code": "PT112",
+              "id": "xE"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 1,
+            "imported": false,
+            "serie": {
+              "name": "1.6 TDI Confortline",
+              "id": "7ce77855-d268-3b6f-8d9c-3c4999ddd6ed"
+            },
+            "model": {
+              "name": "Jetta",
+              "id": "92Q"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/thumb_9c12ab91-f527-42fe-9d63-f630584a590f.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/9c12ab91-f527-42fe-9d63-f630584a590f.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "57",
+                "address": "Rua  Cidade do Porto",
+                "city": "Braga",
+                "floor_number": "",
+                "postal_code": "4705-086"
+              },
+              "stand_url": "/stand/p8Q/viaturas-em-braga",
+              "description_url": "viaturas-em-braga",
+              "commercial_name": "Viaturas em Braga",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": false,
+                "covid19_safe_badge": false,
+                "description_url": "becmarvas-unipessoal-lda",
+                "name": "Becmarvas, Unipessoal, Lda",
+                "partner_credibom": false,
+                "company_url": "/company/BEb/becmarvas-unipessoal-lda",
+                "id": "BEb"
+              },
+              "id": "p8Q",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "911111725",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.viaturasembraga.com",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Volkswagen",
+              "id": "KX"
+            }
+          },
+          "sort": [
+            1634291005585,
+            1634291003806,
+            1634291005587,
+            "4Qyzv"
+          ],
+          "index_id": "4Qyzv"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/6RPj0/seat-ibiza-gasolina",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_6cae56ac-93c7-42e6-a1bc-a5a62913ca0f.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/6cae56ac-93c7-42e6-a1bc-a5a62913ca0f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_7454daf3-ac90-46c7-a5e5-cc3fbe642b1a.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/7454daf3-ac90-46c7-a5e5-cc3fbe642b1a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_82827264-db35-49ed-8281-cbfd6f252442.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/82827264-db35-49ed-8281-cbfd6f252442.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_c25289ea-07e1-4dd7-8647-9f96baeaf25b.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/c25289ea-07e1-4dd7-8647-9f96baeaf25b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_03efc634-d40e-404f-9d0e-5f18935b309c.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/03efc634-d40e-404f-9d0e-5f18935b309c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_4e9a6ce4-5c51-4df6-9b43-860e0865d7d6.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/4e9a6ce4-5c51-4df6-9b43-860e0865d7d6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_0824317b-13ab-49ef-beb0-3cab34bcbdc7.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/0824317b-13ab-49ef-beb0-3cab34bcbdc7.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_43f1e943-4c81-4593-99c6-24fb69c1e162.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/43f1e943-4c81-4593-99c6-24fb69c1e162.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_1069e2dc-0685-4e2b-b40e-dd22c23c3520.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/1069e2dc-0685-4e2b-b40e-dd22c23c3520.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_898798b9-791a-4267-9be1-171a0cb2e9b8.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/898798b9-791a-4267-9be1-171a0cb2e9b8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_39c6e703-e4fd-4d32-acce-d5d77bfd0426.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/39c6e703-e4fd-4d32-acce-d5d77bfd0426.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_07fb3054-9b78-44d4-9c40-19df9102b288.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/07fb3054-9b78-44d4-9c40-19df9102b288.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_bdd1aeea-2efc-4c6e-8b6f-7301ee6399c5.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/bdd1aeea-2efc-4c6e-8b6f-7301ee6399c5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_a57bf12d-d8eb-4995-82fe-122dacb97408.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/a57bf12d-d8eb-4995-82fe-122dacb97408.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_55de6ce8-8533-4f0e-9f68-41ee615f2628.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/55de6ce8-8533-4f0e-9f68-41ee615f2628.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_769f015d-fa08-45ea-9c6d-f924163c874e.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/769f015d-fa08-45ea-9c6d-f924163c874e.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/thumb_0db7b76d-dcff-4189-84da-81bdbe80c7cd.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/vehicle_6RPj0/0db7b76d-dcff-4189-84da-81bdbe80c7cd.jpg"
+              }
+            ],
+            "description_url": "seat-ibiza-gasolina",
+            "fuel": {
+              "name": "Gasolina",
+              "id": "xE"
+            },
+            "price_b2b": 8700,
+            "type": {
+              "name": "Citadino",
+              "id": "D6"
+            },
+            "deductible_tax": false,
+            "register_month": 5,
+            "certification": false,
+            "kms": 102000,
+            "register_year": 2014,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "license_plate": "00-00-00",
+            "engine_information": {
+              "cylinder_capacity_cc": 1200,
+              "power_hp": 70
+            },
+            "nuts": {
+              "nuts3_name": "Cávado",
+              "code": "PT112",
+              "id": "xE"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 8700,
+            "imported": false,
+            "serie": {
+              "name": "1.2 Style",
+              "id": "e6678909-cc21-39b0-8af8-12720a229509"
+            },
+            "model": {
+              "name": "Ibiza",
+              "id": "46b"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/thumb_9c12ab91-f527-42fe-9d63-f630584a590f.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_BEb/stand_p8Q/9c12ab91-f527-42fe-9d63-f630584a590f.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "57",
+                "address": "Rua  Cidade do Porto",
+                "city": "Braga",
+                "floor_number": "",
+                "postal_code": "4705-086"
+              },
+              "stand_url": "/stand/p8Q/viaturas-em-braga",
+              "description_url": "viaturas-em-braga",
+              "commercial_name": "Viaturas em Braga",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": false,
+                "covid19_safe_badge": false,
+                "description_url": "becmarvas-unipessoal-lda",
+                "name": "Becmarvas, Unipessoal, Lda",
+                "partner_credibom": false,
+                "company_url": "/company/BEb/becmarvas-unipessoal-lda",
+                "id": "BEb"
+              },
+              "id": "p8Q",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "911111725",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.viaturasembraga.com",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Seat",
+              "id": "QV"
+            }
+          },
+          "sort": [
+            1634291002149,
+            1634290970804,
+            1634291002151,
+            "6RPj0"
+          ],
+          "index_id": "6RPj0"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/20ymv/opel-astra-1.3-cdti-1.2-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "equipment_level": 1,
+            "price_b2b": 3950,
+            "type": {
+              "name": "Familiar",
+              "id": "wm"
+            },
+            "register_month": 2,
+            "kms": 301000,
+            "autonomy": 0,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "engine_information": {
+              "cylinder_l": 1.2,
+              "co2": 130,
+              "power_kw": 66,
+              "cylinder_capacity_cc": 1248,
+              "power_hp": 90
+            },
+            "price": 4950,
+            "imported": false,
+            "model": {
+              "name": "Astra",
+              "id": "y1kk"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/thumb_3be82718-a225-43a4-88c8-b8ff7b73d895.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/3be82718-a225-43a4-88c8-b8ff7b73d895.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "1835",
+                "address": "Rua Estrada Nacional Nº 1",
+                "city": "Mozelos",
+                "floor_number": "",
+                "postal_code": "4535-214"
+              },
+              "stand_url": "/stand/zVX/eduardosilvacar-1",
+              "description_url": "eduardosilvacar-1",
+              "commercial_name": "EduardosilvaCAR 1",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "eduardo-silva-car-unipessoal-lda",
+                "name": "Eduardo Silva Car Unipessoal Lda",
+                "partner_credibom": true,
+                "company_url": "/company/VYO/eduardo-silva-car-unipessoal-lda",
+                "id": "VYO"
+              },
+              "id": "zVX",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "930492095",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "eduardo_automoveis@hotmail.com",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "www.facebook.com/www.eduardosilvacar",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Opel",
+              "id": "15"
+            },
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_2d9ed85457e03d602f0772894309c823.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/2d9ed85457e03d602f0772894309c823.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_45398588184ab980d0ecc6b8cd0326ad.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/45398588184ab980d0ecc6b8cd0326ad.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_076abc5381ed5fc5fb59739d61ce9c2b.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/076abc5381ed5fc5fb59739d61ce9c2b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_1f15870b7af481d1515000926d5fe466.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/1f15870b7af481d1515000926d5fe466.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_d4451b74298eeba39a48c943033f8323.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/d4451b74298eeba39a48c943033f8323.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_bee61ee28bcbfa5fe9f7170182970291.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/bee61ee28bcbfa5fe9f7170182970291.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_2c29a3dbc6a2193dcb08a9c3309ea8ce.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/2c29a3dbc6a2193dcb08a9c3309ea8ce.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_a93d00b7c8234d8b8327ed86c39a47a6.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/a93d00b7c8234d8b8327ed86c39a47a6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_7a5b348f0b96f52b9fc34114923d74c1.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/7a5b348f0b96f52b9fc34114923d74c1.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_769dfc28744bc9bdd3d59d8b3ca01214.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/769dfc28744bc9bdd3d59d8b3ca01214.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_845910dd9c644af1d993cb17651306cd.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/845910dd9c644af1d993cb17651306cd.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_c93fbb0eb39e5d9b1a31d097c9e25082.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/c93fbb0eb39e5d9b1a31d097c9e25082.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/thumb_3da479136e610f935fc5bae557a31f54.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_VYO/stand_zVX/7a0497b6-2d0e-11ec-a6ba-9b2759f8e828/3da479136e610f935fc5bae557a31f54.jpg"
+              }
+            ],
+            "efficiency": 1,
+            "description_url": "opel-astra-1.3-cdti-1.2-diesel",
+            "deductible_tax": false,
+            "certification": false,
+            "register_year": 2007,
+            "license_plate": "16-DA-36",
+            "performance": 1,
+            "nuts": {
+              "nuts3_name": "Área Metropolitana do Porto",
+              "code": "PT11A",
+              "id": "D6"
+            },
+            "exterior_color": {
+              "name": "Cinzento",
+              "hex": "#808080",
+              "id": "rO"
+            },
+            "warranty_description": "Stand - 12 meses",
+            "serie": {
+              "name": "1.3 CDTI  1.2, 90 CV",
+              "id": "Z6Q2"
+            }
+          },
+          "sort": [
+            1634233620568,
+            1634230850098,
+            1634233620588,
+            "20ymv"
+          ],
+          "index_id": "20ymv"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/yYK3D/isuzu-d-max-2.5-4wd-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "equipment_level": 0,
+            "price_b2b": 16500,
+            "type": {
+              "name": "SUV e TT",
+              "id": "pZ"
+            },
+            "register_month": 10,
+            "kms": 132000,
+            "autonomy": 0,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "engine_information": {
+              "cylinder_l": 2.5,
+              "co2": 217,
+              "power_kw": 100,
+              "cylinder_capacity_cc": 2499,
+              "power_hp": 136
+            },
+            "price": 16900,
+            "imported": false,
+            "model": {
+              "name": "D-Max",
+              "id": "0pb"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/thumb_2959c1b3-09b5-4eca-9b66-a9c0671df8e1.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/2959c1b3-09b5-4eca-9b66-a9c0671df8e1.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "930",
+                "address": "Rua  Ribeira",
+                "city": "Macieira de Sarnes",
+                "floor_number": "",
+                "postal_code": "3700-718"
+              },
+              "stand_url": "/stand/2pAp/conceptcar",
+              "description_url": "conceptcar",
+              "commercial_name": "Conceptcar",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "paulo-alexandre-soares-martins-unipessoal-lda",
+                "name": "Paulo alexandre soares Martins unipessoal lda",
+                "partner_credibom": false,
+                "company_url": "/company/AX4R/paulo-alexandre-soares-martins-unipessoal-lda",
+                "id": "AX4R"
+              },
+              "id": "2pAp",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "919408505",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "geral@concept-car.com.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.concept-car.com.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Isuzu",
+              "id": "1l5"
+            },
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_1e157d5c5e78ecbe4dadfa5500acc450.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/1e157d5c5e78ecbe4dadfa5500acc450.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_f4d6cd9b124226b29bfdc7aa05f0d638.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/f4d6cd9b124226b29bfdc7aa05f0d638.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_2f3de85e95f40e3b1437500b908f447b.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/2f3de85e95f40e3b1437500b908f447b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_092e3e8e8e58ad82dd1ee454b0b911dc.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/092e3e8e8e58ad82dd1ee454b0b911dc.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_0a4b89044599e723a922b3544a65f132.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/0a4b89044599e723a922b3544a65f132.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_ec86627dad2d9c2031fd84d7a0f9122d.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/ec86627dad2d9c2031fd84d7a0f9122d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_b1dbdffd2d35be22247b1cf9e6cc8c57.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/b1dbdffd2d35be22247b1cf9e6cc8c57.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_e2b48a3dfdd153d01f7d22ab9dcbba98.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/e2b48a3dfdd153d01f7d22ab9dcbba98.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_c00210a54e869610cca61b0e2b1e97b3.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/c00210a54e869610cca61b0e2b1e97b3.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_954991087155c759ad8a58507d9fba47.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/954991087155c759ad8a58507d9fba47.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_5c0b7ed07772f6fc97a89041540e43a5.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/5c0b7ed07772f6fc97a89041540e43a5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_a949f0cae47c0cd2eceb7a46e9fcaf15.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/a949f0cae47c0cd2eceb7a46e9fcaf15.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_7d6ec5d4fc74b1af0a17ea45baf2e6ed.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/7d6ec5d4fc74b1af0a17ea45baf2e6ed.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_525f3b689b9d7d02eec44aaa941631f1.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/525f3b689b9d7d02eec44aaa941631f1.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/thumb_86142bd6e1157ec2a3c73f86c795cedc.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_AX4R/stand_2pAp/e6dad460-2d0c-11ec-9ff6-93138fc94b01/86142bd6e1157ec2a3c73f86c795cedc.jpg"
+              }
+            ],
+            "efficiency": 3,
+            "description_url": "isuzu-d-max-2.5-4wd-diesel",
+            "deductible_tax": false,
+            "certification": false,
+            "register_year": 2008,
+            "license_plate": "36-GP-54",
+            "performance": 3,
+            "nuts": {
+              "nuts3_name": "Área Metropolitana do Porto",
+              "code": "PT11A",
+              "id": "D6"
+            },
+            "exterior_color": {
+              "name": "Cinzento",
+              "hex": "#808080",
+              "id": "rO"
+            },
+            "warranty_description": "Stand - 12 meses",
+            "serie": {
+              "name": "2.5 4WD, 136 CV",
+              "id": "9MYr"
+            }
+          },
+          "sort": [
+            1634229661975,
+            1634229653558,
+            1634229886183,
+            "yYK3D"
+          ],
+          "index_id": "yYK3D"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/PmXeA/mercedes-benz-classe-e-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_1437cdd4-239c-4d66-9f24-79a5063506b3.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/1437cdd4-239c-4d66-9f24-79a5063506b3.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_f49d6995-e8a8-4b58-8fed-93f7d013c863.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/f49d6995-e8a8-4b58-8fed-93f7d013c863.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_2887525a-b43b-407c-a2ef-c5ce42d9be78.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/2887525a-b43b-407c-a2ef-c5ce42d9be78.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_a01bc3ab-75c1-4693-bf1a-30f2b0cbc6cd.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/a01bc3ab-75c1-4693-bf1a-30f2b0cbc6cd.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_9a32742d-0b7c-4a2b-812d-282f66a0fe7c.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/9a32742d-0b7c-4a2b-812d-282f66a0fe7c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_9a035f64-bdaf-40cb-ad31-c60e15f3e59c.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/9a035f64-bdaf-40cb-ad31-c60e15f3e59c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_fbbea72f-6834-476a-af88-5c1069cd4570.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/fbbea72f-6834-476a-af88-5c1069cd4570.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_2f39a996-027e-4b20-a5a3-65b9a9555a7f.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/2f39a996-027e-4b20-a5a3-65b9a9555a7f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_0571fc7b-bdf3-43d0-b952-63fd5d74546c.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/0571fc7b-bdf3-43d0-b952-63fd5d74546c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_372648b4-5b6d-4819-8e52-6c30930c3251.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/372648b4-5b6d-4819-8e52-6c30930c3251.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_be046ee4-1f6b-475b-9701-c34e38ec3b51.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/be046ee4-1f6b-475b-9701-c34e38ec3b51.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_85e0d8bb-0f28-491c-86ee-eeca91304341.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/85e0d8bb-0f28-491c-86ee-eeca91304341.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_341de71d-f30e-4bc6-b06a-8ce56bd00654.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/341de71d-f30e-4bc6-b06a-8ce56bd00654.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/thumb_e89b195d-a931-4cdc-a029-7ae3ff734f93.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/vehicle_PmXeA/e89b195d-a931-4cdc-a029-7ae3ff734f93.jpg"
+              }
+            ],
+            "description_url": "mercedes-benz-classe-e-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 4900,
+            "type": {
+              "name": "Executivo",
+              "id": "W2"
+            },
+            "deductible_tax": false,
+            "register_month": 12,
+            "certification": false,
+            "kms": 255470,
+            "register_year": 1997,
+            "transmission": {
+              "name": "Automática",
+              "id": "xE"
+            },
+            "license_plate": "94-EF-70",
+            "engine_information": {
+              "cylinder_capacity_cc": 2996,
+              "power_hp": 175
+            },
+            "nuts": {
+              "nuts3_name": "Área Metropolitana do Porto",
+              "code": "PT11A",
+              "id": "D6"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 0,
+            "imported": false,
+            "serie": {
+              "name": "E 300 Avantgarde",
+              "id": "db2f1b02-6f83-3782-9c5c-61e3a47e1722",
+              "macro_serie": "300"
+            },
+            "model": {
+              "name": "Classe E",
+              "id": "6kvQ"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/thumb_085ae8db-5220-49d9-ac7b-58f3dc85d692.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/085ae8db-5220-49d9-ac7b-58f3dc85d692.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/thumb_b53bd23c-3d53-4c75-96d5-17bd3d2ece6f.jpg",
+                  "position": 1,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_MrV/stand_0x1/b53bd23c-3d53-4c75-96d5-17bd3d2ece6f.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "1378",
+                "address": "Rua  Central de Mouriz",
+                "city": "Mouriz",
+                "floor_number": "",
+                "postal_code": "4580-590"
+              },
+              "stand_url": "/stand/0x1/novo-salao",
+              "description_url": "novo-salao",
+              "commercial_name": "Novo Salão",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": false,
+                "covid19_safe_badge": false,
+                "description_url": "novo-salao-comercio-de-automoveis-lda",
+                "name": "NOVO SALÃO - COMÉRCIO DE AUTOMÓVEIS, LDA",
+                "partner_credibom": false,
+                "company_url": "/company/MrV/novo-salao-comercio-de-automoveis-lda",
+                "id": "MrV"
+              },
+              "id": "0x1",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "917666014",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "917600723",
+                    "position": 2,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "geral@novosalao.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "http://www.novosalao.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Mercedes-Benz",
+              "id": "V5"
+            }
+          },
+          "sort": [
+            1634227756021,
+            1634227731144,
+            1634227756023,
+            "PmXeA"
+          ],
+          "index_id": "PmXeA"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/20yYN/peugeot-2008-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_cb38dde4-92ad-4659-b41c-d3ba2b777cc9.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/cb38dde4-92ad-4659-b41c-d3ba2b777cc9.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_50bff2cb-c0a2-4240-aa9a-fc4d080d06c1.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/50bff2cb-c0a2-4240-aa9a-fc4d080d06c1.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_ef6cc711-7af7-489b-a985-5299943587c4.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/ef6cc711-7af7-489b-a985-5299943587c4.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_94a1acfc-824f-4ae5-b6ef-917995721a71.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/94a1acfc-824f-4ae5-b6ef-917995721a71.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_c8a0b5a7-b1dc-4331-8568-9288183a5935.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/c8a0b5a7-b1dc-4331-8568-9288183a5935.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_a3f852e8-bd34-4c91-959d-065f75865b9c.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/a3f852e8-bd34-4c91-959d-065f75865b9c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_1e2788a6-d9ce-4fa0-be16-a516a60809ef.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/1e2788a6-d9ce-4fa0-be16-a516a60809ef.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_be89bdde-3b13-4473-9063-0ec22924c628.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/be89bdde-3b13-4473-9063-0ec22924c628.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_6ed7f91e-1a8a-472f-b4d5-9471fe3cf152.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/6ed7f91e-1a8a-472f-b4d5-9471fe3cf152.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_2687240b-bc15-4f5e-b0f7-64b385589fab.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/2687240b-bc15-4f5e-b0f7-64b385589fab.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_19c3cbf5-2789-4889-815b-8a3b0781c881.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/19c3cbf5-2789-4889-815b-8a3b0781c881.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_1a2f51c5-d49e-4ead-ae52-126f671960cf.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/1a2f51c5-d49e-4ead-ae52-126f671960cf.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_5c2c97fe-c85a-4e36-aaa6-346837944194.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/5c2c97fe-c85a-4e36-aaa6-346837944194.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_4c087b83-464f-491a-ad56-2114403886cc.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/4c087b83-464f-491a-ad56-2114403886cc.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_a2b29049-6127-4120-8985-ccfdb530441f.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/a2b29049-6127-4120-8985-ccfdb530441f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_30427180-a3ea-452d-b310-2d259bf89308.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/30427180-a3ea-452d-b310-2d259bf89308.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_da0a7794-bbb4-44be-82ba-b1c25d477506.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/da0a7794-bbb4-44be-82ba-b1c25d477506.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_b3d0e76b-9508-49b5-b462-5d87adf416b8.jpg",
+                "position": 18,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/b3d0e76b-9508-49b5-b462-5d87adf416b8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_d32b8b7d-03ff-4465-adfc-772a3e717e31.jpg",
+                "position": 19,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/d32b8b7d-03ff-4465-adfc-772a3e717e31.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_c7365b47-83e5-4e47-b9aa-55d20fc415d5.jpg",
+                "position": 20,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/c7365b47-83e5-4e47-b9aa-55d20fc415d5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_832e09bf-ec0c-4717-b4f8-ba52bb144dac.jpg",
+                "position": 21,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/832e09bf-ec0c-4717-b4f8-ba52bb144dac.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_9c1d90fc-155b-4b0f-9e01-649458ee0fc0.jpg",
+                "position": 22,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/9c1d90fc-155b-4b0f-9e01-649458ee0fc0.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_df1fc610-59f9-4348-9eaa-f79c9d3d0be5.jpg",
+                "position": 23,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/df1fc610-59f9-4348-9eaa-f79c9d3d0be5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_d9b47f87-4761-4bc2-9fa3-0d3bdcc62187.jpg",
+                "position": 24,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/d9b47f87-4761-4bc2-9fa3-0d3bdcc62187.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_d2d3f888-f377-4011-912d-088276e36a1d.jpg",
+                "position": 25,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/d2d3f888-f377-4011-912d-088276e36a1d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_7b082fe1-3b97-49c6-ac32-7a439b9c5171.jpg",
+                "position": 26,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/7b082fe1-3b97-49c6-ac32-7a439b9c5171.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_9e1f9344-d350-47da-99be-eff10e3fcc3a.jpg",
+                "position": 27,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/9e1f9344-d350-47da-99be-eff10e3fcc3a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_940ae1a6-a6cc-4c58-88c3-ff55e590bd91.jpg",
+                "position": 28,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/940ae1a6-a6cc-4c58-88c3-ff55e590bd91.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_109589dd-d7e1-4b0c-8371-7e9f00563178.jpg",
+                "position": 29,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/109589dd-d7e1-4b0c-8371-7e9f00563178.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_900934e8-20de-4e68-bea3-04f80d5e1757.jpg",
+                "position": 30,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/900934e8-20de-4e68-bea3-04f80d5e1757.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_8da4dbf8-a490-4a28-b31a-da66a6a246cb.jpg",
+                "position": 31,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/8da4dbf8-a490-4a28-b31a-da66a6a246cb.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_b7d9e3a3-ff3b-471c-83d9-4d7a7e233f11.jpg",
+                "position": 32,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/b7d9e3a3-ff3b-471c-83d9-4d7a7e233f11.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_0408290e-542b-431d-a065-d5ec1974bfec.jpg",
+                "position": 33,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/0408290e-542b-431d-a065-d5ec1974bfec.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_8b069809-f8e5-4680-9165-6ede5c43fe88.jpg",
+                "position": 34,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/8b069809-f8e5-4680-9165-6ede5c43fe88.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_cfe734a7-1522-4dfb-acd3-813d9786f8df.jpg",
+                "position": 35,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/cfe734a7-1522-4dfb-acd3-813d9786f8df.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_aefe8b51-2ea8-4a79-bbc5-d04b6a9cdc32.jpg",
+                "position": 36,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/aefe8b51-2ea8-4a79-bbc5-d04b6a9cdc32.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_142e9d4c-70ae-451c-a2e0-3aceb60e023b.jpg",
+                "position": 37,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/142e9d4c-70ae-451c-a2e0-3aceb60e023b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_35813dcf-b090-4b3a-9519-1e6b3ef7be25.jpg",
+                "position": 38,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/35813dcf-b090-4b3a-9519-1e6b3ef7be25.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_825d9a35-eaa5-4539-a3b7-7aee802f9a37.jpg",
+                "position": 39,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/825d9a35-eaa5-4539-a3b7-7aee802f9a37.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_5a34bcdf-f228-4b26-b74b-be55a2846eab.jpg",
+                "position": 40,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/5a34bcdf-f228-4b26-b74b-be55a2846eab.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_7eda8020-56fc-4ef9-9be9-8ed0dc1ffba9.jpg",
+                "position": 41,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/7eda8020-56fc-4ef9-9be9-8ed0dc1ffba9.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_69f5722d-8239-437f-95f5-3cb67b2b6fcf.jpg",
+                "position": 42,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/69f5722d-8239-437f-95f5-3cb67b2b6fcf.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/thumb_82c773a3-30cc-443a-9ef9-e65fd22b0974.jpg",
+                "position": 43,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/vehicle_20yYN/82c773a3-30cc-443a-9ef9-e65fd22b0974.jpg"
+              }
+            ],
+            "description_url": "peugeot-2008-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 32750,
+            "type": {
+              "name": "SUV e TT",
+              "id": "pZ"
+            },
+            "deductible_tax": false,
+            "register_month": 9,
+            "certification": false,
+            "kms": 40,
+            "register_year": 2021,
+            "transmission": {
+              "name": "Automática",
+              "id": "xE"
+            },
+            "license_plate": "00-00-00",
+            "engine_information": {
+              "cylinder_capacity_cc": 1499,
+              "power_hp": 130
+            },
+            "nuts": {
+              "nuts3_name": "Área Metropolitana de Lisboa",
+              "code": "PT170",
+              "id": "Ry"
+            },
+            "exterior_color": {
+              "name": "Outra",
+              "id": "Ry"
+            },
+            "price": 32750,
+            "imported": false,
+            "serie": {
+              "name": "1.5 BlueHdi GT EAT8 ",
+              "id": "0ee5b159-5fa6-3b86-872b-c8aca224dcaf"
+            },
+            "model": {
+              "name": "2008",
+              "id": "Xdm"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/thumb_6e55d1a9-be77-4d0c-890d-6d0c37ee2fa3.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/6e55d1a9-be77-4d0c-890d-6d0c37ee2fa3.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/thumb_f2f9f77c-7b75-4f55-b16c-660353838576.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/f2f9f77c-7b75-4f55-b16c-660353838576.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/thumb_9b2a8e81-2f74-4f97-96cb-86ad66182002.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/9b2a8e81-2f74-4f97-96cb-86ad66182002.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/thumb_faa590de-36d6-4928-9ce7-9c25f656fa5c.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_xMB/stand_3Em/faa590de-36d6-4928-9ce7-9c25f656fa5c.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "9",
+                "address": "Avenida 11 de Junho",
+                "city": "Terrugem",
+                "floor_number": "0",
+                "postal_code": "2705-837"
+              },
+              "stand_url": "/stand/3Em/slcar",
+              "description_url": "slcar",
+              "commercial_name": "SLcar",
+              "company": {
+                "partner_apdca": true,
+                "home_delivery": false,
+                "covid19_safe_badge": true,
+                "description_url": "sergio-lopes-rent-aluguer-de-automoveis-lda",
+                "name": "Sergio Lopes Rent Aluguer de Automóveis Lda",
+                "partner_credibom": false,
+                "company_url": "/company/xMB/sergio-lopes-rent-aluguer-de-automoveis-lda",
+                "id": "xMB"
+              },
+              "id": "3Em",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "917222434",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "slcar@sapo.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "www.slcar.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Peugeot",
+              "id": "WX2"
+            }
+          },
+          "sort": [
+            1634227515137,
+            1634227446551,
+            1634227515138,
+            "20yYN"
+          ],
+          "index_id": "20yYN"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/OXZ4y/mini-countryman-cooper-countryman-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "equipment_level": 0,
+            "price_b2b": 15750,
+            "type": {
+              "name": "SUV e TT",
+              "id": "pZ"
+            },
+            "register_month": 7,
+            "kms": 92051,
+            "autonomy": 0,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "engine_information": {
+              "cylinder_capacity_cc": 2000,
+              "power_hp": 122
+            },
+            "price": 16750,
+            "imported": true,
+            "model": {
+              "name": "Countryman",
+              "id": "bXq"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/thumb_6a3ac2d3-34be-4e97-9f5a-6a1c710e48dc.jpg",
+                  "position": 421,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/6a3ac2d3-34be-4e97-9f5a-6a1c710e48dc.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "884",
+                "address": "Rua Industrial das Lajes",
+                "city": "Canelas",
+                "floor_number": "",
+                "postal_code": "4410-312"
+              },
+              "stand_url": "/stand/EL/triplemotors",
+              "description_url": "triplemotors",
+              "commercial_name": "TripleMotors",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "triplemotors-unipessoal-lda",
+                "name": "Triplemotors, Unipessoal Lda ",
+                "partner_credibom": true,
+                "company_url": "/company/32/triplemotors-unipessoal-lda",
+                "id": "32"
+              },
+              "id": "EL",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "914066626",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "triplemotors2018@gmail.com",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "https://triplemotors.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "https://www.facebook.com/Triplemotors-440687939697352/",
+                    "position": 2,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Mini",
+              "id": "bxR"
+            },
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_2770eb4248f2169e14489effaea8a8c4.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/2770eb4248f2169e14489effaea8a8c4.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_e3673d894cb1b9b827e62dee4739d643.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/e3673d894cb1b9b827e62dee4739d643.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_a13b29a8bef7751977ba72a7bc981647.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/a13b29a8bef7751977ba72a7bc981647.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_8a1397fb42bb9a902e8c95a56393116d.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/8a1397fb42bb9a902e8c95a56393116d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_3a8c2b643ca6cd7a85a6c1c277d7c95a.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/3a8c2b643ca6cd7a85a6c1c277d7c95a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_21365088ca09f9defc547eb1cdc626ee.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/21365088ca09f9defc547eb1cdc626ee.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_de4357dbe9d378220710fe4495c64874.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/de4357dbe9d378220710fe4495c64874.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_1367e25f0ac319a8b38113f9c3af0a72.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/1367e25f0ac319a8b38113f9c3af0a72.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_f63def3c60f80946da786f46a3a62db3.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/f63def3c60f80946da786f46a3a62db3.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_ef1fb0cba0e226f030916aafe26facda.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/ef1fb0cba0e226f030916aafe26facda.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_9fa69e591586594382695d54c985426d.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/9fa69e591586594382695d54c985426d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_79afbd4ec99b6c763319eb6942804876.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/79afbd4ec99b6c763319eb6942804876.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_517d46f22d4afb20eb995ffba70a87fa.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/517d46f22d4afb20eb995ffba70a87fa.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_8ee379d1f0ac4f35a2df0f6d308841c5.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/8ee379d1f0ac4f35a2df0f6d308841c5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_0187fceb3298c18dccccd672bfde26b6.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/0187fceb3298c18dccccd672bfde26b6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_4f508b9cc38a6a0b7f7b07646db3f979.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/4f508b9cc38a6a0b7f7b07646db3f979.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_47c529f2d545f7dbe38098fa31175db7.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/47c529f2d545f7dbe38098fa31175db7.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_73fc9a27f7ddd4c5504f80758320ac5f.jpg",
+                "position": 18,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/73fc9a27f7ddd4c5504f80758320ac5f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_0ae304385a368c1802bac7234e3c69e9.jpg",
+                "position": 19,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/0ae304385a368c1802bac7234e3c69e9.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_72dc329b9e9d971f6e26c22cf19b87fa.jpg",
+                "position": 20,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/72dc329b9e9d971f6e26c22cf19b87fa.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_969aa27e846f2934e8d53f4213df21b1.jpg",
+                "position": 21,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/969aa27e846f2934e8d53f4213df21b1.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_c45bbea76efaa2589ba584c2c30024d5.jpg",
+                "position": 22,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/c45bbea76efaa2589ba584c2c30024d5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_5ef4539bac78c53b9cf2a0a88fe7cf3a.jpg",
+                "position": 23,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/5ef4539bac78c53b9cf2a0a88fe7cf3a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_65e5b2f1416594f8dcc16c8e58010d22.jpg",
+                "position": 24,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/65e5b2f1416594f8dcc16c8e58010d22.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_bc3bfa9df4152fb6c115f84b8fa52e81.jpg",
+                "position": 25,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/bc3bfa9df4152fb6c115f84b8fa52e81.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_a40cb86a77f886610a82c2a9ada56e83.jpg",
+                "position": 26,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/a40cb86a77f886610a82c2a9ada56e83.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_544081a6ea5618019dc0a991fccb0c0f.jpg",
+                "position": 27,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/544081a6ea5618019dc0a991fccb0c0f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_345e40903c50def58000aa11209fa554.jpg",
+                "position": 28,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/345e40903c50def58000aa11209fa554.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/thumb_1fdab77fb5a80b5f365b807ddc18f847.jpg",
+                "position": 29,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_32/stand_EL/616f0ce0-2cfa-11ec-bfca-9f2fe4f5af92/1fdab77fb5a80b5f365b807ddc18f847.jpg"
+              }
+            ],
+            "efficiency": 3,
+            "description_url": "mini-countryman-cooper-countryman-diesel",
+            "deductible_tax": false,
+            "certification": false,
+            "register_year": 2011,
+            "license_plate": "00-00-00",
+            "performance": 3,
+            "nuts": {
+              "nuts3_name": "Área Metropolitana do Porto",
+              "code": "PT11A",
+              "id": "D6"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "warranty_description": "Stand - 12 meses",
+            "serie": {
+              "name": "Cooper Countryman, 122 CV",
+              "id": "p6B0"
+            }
+          },
+          "sort": [
+            1634223271606,
+            1634221735750,
+            1634223271618,
+            "OXZ4y"
+          ],
+          "index_id": "OXZ4y"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/20yEw/renault-megane-break-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_5e7069ed-b517-4970-9af9-12ec7ec7cdb8.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/5e7069ed-b517-4970-9af9-12ec7ec7cdb8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_9485c2a2-10e1-4880-ad48-233d6db7bfaa.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/9485c2a2-10e1-4880-ad48-233d6db7bfaa.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_c38a6f32-a6fe-4a52-a59c-95f4a9ffcf61.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/c38a6f32-a6fe-4a52-a59c-95f4a9ffcf61.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_63213ca0-eb11-4c79-a9d7-1639a77f9d2a.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/63213ca0-eb11-4c79-a9d7-1639a77f9d2a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_633de635-544e-442c-b76f-052c65183e1a.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/633de635-544e-442c-b76f-052c65183e1a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_367047ba-0f16-4a65-8350-284c4ae6270f.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/367047ba-0f16-4a65-8350-284c4ae6270f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_90ab85f6-fee1-4903-a577-935a4b11856f.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/90ab85f6-fee1-4903-a577-935a4b11856f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_721f23d3-40d8-41d9-a498-cf37de7a9af9.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/721f23d3-40d8-41d9-a498-cf37de7a9af9.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_c73e87e4-a500-40da-9060-54f0019010dc.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/c73e87e4-a500-40da-9060-54f0019010dc.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_6d9c6ece-0fe4-4c74-8448-c4c005817b9b.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/6d9c6ece-0fe4-4c74-8448-c4c005817b9b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/thumb_ecb48483-23f0-41d1-bf89-702d76d4e275.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/vehicle_20yEw/ecb48483-23f0-41d1-bf89-702d76d4e275.jpg"
+              }
+            ],
+            "description_url": "renault-megane-break-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 10500,
+            "type": {
+              "name": "Carrinha",
+              "id": "bR"
+            },
+            "deductible_tax": false,
+            "register_month": 7,
+            "certification": false,
+            "kms": 189000,
+            "register_year": 2015,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "license_plate": "79-QD-67",
+            "engine_information": {
+              "cylinder_capacity_cc": 1460,
+              "power_hp": 110
+            },
+            "nuts": {
+              "nuts3_name": "Área Metropolitana do Porto",
+              "code": "PT11A",
+              "id": "D6"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 11900,
+            "imported": false,
+            "serie": {
+              "name": "1.5 dci gt line",
+              "id": "0341a28a-179f-3fa7-80ea-bdf2305436a3"
+            },
+            "model": {
+              "name": "Megane Break",
+              "id": "5lEE"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/thumb_4981462f-634d-4035-8282-eef671d05121.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_bxx5/stand_XNp1/4981462f-634d-4035-8282-eef671d05121.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "1320",
+                "address": "Rua São Martinho",
+                "city": "Fajões",
+                "floor_number": "",
+                "postal_code": "3700-375"
+              },
+              "stand_url": "/stand/XNp1/stand-cmdias",
+              "description_url": "stand-cmdias",
+              "commercial_name": "Stand CMDias",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "carlos-manuel-dias-lda",
+                "name": "Carlos & Manuel Dias Lda",
+                "partner_credibom": false,
+                "company_url": "/company/bxx5/carlos-manuel-dias-lda",
+                "id": "bxx5"
+              },
+              "id": "XNp1",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "918550023",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "918550029",
+                    "position": 2,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "256851380",
+                    "position": 3,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "standcmdias@sapo.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": true
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.cmdias.com",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "www.facebook.com/Stand-CMDias-Carlos-Manuel-Dias-Lda-347122852086935",
+                    "position": 2,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Renault",
+              "id": "9M"
+            }
+          },
+          "sort": [
+            1634222440571,
+            1634222418435,
+            1634222440573,
+            "20yEw"
+          ],
+          "index_id": "20yEw"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/eQ2Nm/volkswagen-passat-1.6-tdi-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "equipment_level": 2,
+            "price_b2b": 17900,
+            "type": {
+              "name": "Carrinha",
+              "id": "bR"
+            },
+            "register_month": 2,
+            "kms": 120000,
+            "autonomy": 0,
+            "transmission": {
+              "name": "Manual",
+              "id": "mR"
+            },
+            "engine_information": {
+              "cylinder_l": 1.6,
+              "co2": 107,
+              "power_kw": 88,
+              "cylinder_capacity_cc": 1598,
+              "power_hp": 120
+            },
+            "price": 17900,
+            "imported": false,
+            "model": {
+              "name": "Passat",
+              "id": "Qm3"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/thumb_3f8fa106-eabd-40e3-ac10-d9564f760544.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/3f8fa106-eabd-40e3-ac10-d9564f760544.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/thumb_fa45d394-c7cd-408c-a537-117a1be8e607.jpg",
+                  "position": 1,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/fa45d394-c7cd-408c-a537-117a1be8e607.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "218",
+                "address": "Estrada  Luz",
+                "city": "Lisboa",
+                "floor_number": "",
+                "postal_code": "1600-165"
+              },
+              "stand_url": "/stand/Ybe/lca-motors",
+              "description_url": "lca-motors",
+              "commercial_name": "LCA Motors",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "lca-motors-lda",
+                "name": "LCA Motors LDA",
+                "partner_credibom": true,
+                "company_url": "/company/pXe/lca-motors-lda",
+                "id": "pXe"
+              },
+              "id": "Ybe",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "962798070",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "967284490",
+                    "position": 2,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "215992815",
+                    "position": 3,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "rui.coutinho@lcamotors.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": true
+                  },
+                  {
+                    "code": "email",
+                    "contact": "joao.pereira@lcamotors.pt",
+                    "position": 2,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "https://www.lcamotors.pt/",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Volkswagen",
+              "id": "KX"
+            },
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_47e47a073656ba3fe4b098dede99bf30.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/47e47a073656ba3fe4b098dede99bf30.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_01e8ec254bb752300590177b530431ff.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/01e8ec254bb752300590177b530431ff.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_5ff0a675ea8af9bfa34c5448359c5254.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/5ff0a675ea8af9bfa34c5448359c5254.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_ab3aa32528f9ea065219491fd8161e62.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/ab3aa32528f9ea065219491fd8161e62.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_eeab73cbc845800b4fd49a1f5598e04f.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/eeab73cbc845800b4fd49a1f5598e04f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_41cb4920e169ec92f63bb52db47852ed.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/41cb4920e169ec92f63bb52db47852ed.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_726f1d0d9e723bff93ede9851f4c3f6a.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/726f1d0d9e723bff93ede9851f4c3f6a.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_fcf38b724910534a0ece2a6fe9b29754.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/fcf38b724910534a0ece2a6fe9b29754.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_5e3e3331ea74df93357f936a1d7e254d.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/5e3e3331ea74df93357f936a1d7e254d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_d9cbf0bdd575e835d2f6def0570e9e19.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/d9cbf0bdd575e835d2f6def0570e9e19.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_dd24006454e050eb7f10005951060279.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/dd24006454e050eb7f10005951060279.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_ac8b463e423e7ecfadbcb9df9017cc14.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/ac8b463e423e7ecfadbcb9df9017cc14.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_a868f2fe377a01d2e75b472fcd6882fc.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/a868f2fe377a01d2e75b472fcd6882fc.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_930cdae5ce85fd8b37deac01cb47f269.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/930cdae5ce85fd8b37deac01cb47f269.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_75d3dff630ea1c746d72b91596ae74a2.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/75d3dff630ea1c746d72b91596ae74a2.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_9c38b7cdfb2bc59080b83f12563ef275.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/9c38b7cdfb2bc59080b83f12563ef275.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_59cd03bad28e2e94705efa3deab2f2c7.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/59cd03bad28e2e94705efa3deab2f2c7.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_fa6fa018ddd9991427265c0e1d4e2467.jpg",
+                "position": 18,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/fa6fa018ddd9991427265c0e1d4e2467.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_18bc5bc222205b39538f0e66ea141659.jpg",
+                "position": 19,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/18bc5bc222205b39538f0e66ea141659.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_73a1579a168a93ef8c79e51bc9a121b6.jpg",
+                "position": 20,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/73a1579a168a93ef8c79e51bc9a121b6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_58863e42d099196092809efc8a49ceaf.jpg",
+                "position": 21,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/58863e42d099196092809efc8a49ceaf.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_72d606413ca85584869e6b4fbe81adc9.jpg",
+                "position": 22,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/72d606413ca85584869e6b4fbe81adc9.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_57c02ee968017388b3e070e1a12c5ccf.jpg",
+                "position": 23,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/57c02ee968017388b3e070e1a12c5ccf.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_f931d639d858d4a12b4911bcd197498c.jpg",
+                "position": 24,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/f931d639d858d4a12b4911bcd197498c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_b7fb898b717b037265e888504d581e96.jpg",
+                "position": 25,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/b7fb898b717b037265e888504d581e96.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_ba7609a472cffbf4db2e1cc8f6930e98.jpg",
+                "position": 26,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/ba7609a472cffbf4db2e1cc8f6930e98.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_f348ae460123d3d9399b32a4f72dcaf0.jpg",
+                "position": 27,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/f348ae460123d3d9399b32a4f72dcaf0.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/thumb_33110c4f1f655f4bebdd70bf8b521da2.jpg",
+                "position": 28,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_pXe/stand_Ybe/18bc7ff6-2cf9-11ec-9f25-ffb300858339/33110c4f1f655f4bebdd70bf8b521da2.jpg"
+              }
+            ],
+            "efficiency": 2,
+            "description_url": "volkswagen-passat-1.6-tdi-diesel",
+            "deductible_tax": false,
+            "certification": false,
+            "register_year": 2016,
+            "license_plate": "00-QZ-41",
+            "performance": 1,
+            "nuts": {
+              "nuts3_name": "Área Metropolitana de Lisboa",
+              "code": "PT170",
+              "id": "Ry"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "warranty_description": "Stand - 24 meses",
+            "serie": {
+              "name": "1.6 TDI, 120 CV",
+              "id": "yzOD"
+            }
+          },
+          "sort": [
+            1634221629652,
+            1634221095340,
+            1634221629672,
+            "eQ2Nm"
+          ],
+          "index_id": "eQ2Nm"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/WpMv1/renault-kadjar-1.5-dci-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_27ab9025-b8bc-491b-bc7c-32a962634119.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/27ab9025-b8bc-491b-bc7c-32a962634119.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_5ffc52ef-97ac-4615-9f7f-122f781a995e.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/5ffc52ef-97ac-4615-9f7f-122f781a995e.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_2e6c884c-40ff-4112-a410-28cbaeb44cd6.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/2e6c884c-40ff-4112-a410-28cbaeb44cd6.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_0e9f39e8-f3ae-4904-a339-886c44541bf5.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/0e9f39e8-f3ae-4904-a339-886c44541bf5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_dc773d3d-505f-4824-973c-c9a8569a2c97.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/dc773d3d-505f-4824-973c-c9a8569a2c97.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_6c33bb17-8f0a-4df0-824f-2dbb600c2fc8.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/6c33bb17-8f0a-4df0-824f-2dbb600c2fc8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_f6726255-8063-44bc-8aa8-11a70896e600.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/f6726255-8063-44bc-8aa8-11a70896e600.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_7e52dde6-9e04-437f-b594-cb5c2e891a80.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/7e52dde6-9e04-437f-b594-cb5c2e891a80.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_752163bd-1024-46e5-95da-754613907dff.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/752163bd-1024-46e5-95da-754613907dff.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_0f8ba3c5-35da-4666-ac6c-fbc8420f487c.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/0f8ba3c5-35da-4666-ac6c-fbc8420f487c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_f24c366e-c891-4d78-a1f5-b554fd1ef668.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/f24c366e-c891-4d78-a1f5-b554fd1ef668.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_5bad3923-8be1-4c8a-ad34-59c74deaf70c.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/5bad3923-8be1-4c8a-ad34-59c74deaf70c.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_cbe57b86-edb7-4f74-afea-a142ffaefda3.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/cbe57b86-edb7-4f74-afea-a142ffaefda3.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_06e860c3-b8a5-4ed1-be6c-4bfae74c00ac.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/06e860c3-b8a5-4ed1-be6c-4bfae74c00ac.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_be1dc203-92f7-46b6-ba5d-a254d5120adb.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/be1dc203-92f7-46b6-ba5d-a254d5120adb.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_d8dcc7fd-b51c-4d16-9dd3-c35aff4b52a5.jpg",
+                "position": 16,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/d8dcc7fd-b51c-4d16-9dd3-c35aff4b52a5.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_1491a3eb-01b5-4cb3-ae22-e0ec9c7288b0.jpg",
+                "position": 17,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/1491a3eb-01b5-4cb3-ae22-e0ec9c7288b0.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_ef8eea22-b247-4898-9658-c90cb7eff18b.jpg",
+                "position": 18,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/ef8eea22-b247-4898-9658-c90cb7eff18b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_a8704def-8c02-4c9b-8997-716726a82170.jpg",
+                "position": 19,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/a8704def-8c02-4c9b-8997-716726a82170.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/thumb_55f433a9-3930-44e7-8361-9a5fb6d15b78.jpg",
+                "position": 20,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_WpMv1/55f433a9-3930-44e7-8361-9a5fb6d15b78.jpg"
+              }
+            ],
+            "description_url": "renault-kadjar-1.5-dci-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 17500,
+            "type": {
+              "name": "SUV e TT",
+              "id": "pZ"
+            },
+            "deductible_tax": false,
+            "register_month": 4,
+            "certification": false,
+            "kms": 159890,
+            "register_year": 2018,
+            "transmission": {
+              "name": "Automática",
+              "id": "xE"
+            },
+            "license_plate": "AJ-01-QA",
+            "engine_information": {
+              "cylinder_capacity_cc": 1461,
+              "power_hp": 110
+            },
+            "nuts": {
+              "nuts3_name": "Área Metropolitana de Lisboa",
+              "code": "PT170",
+              "id": "Ry"
+            },
+            "exterior_color": {
+              "name": "Branco",
+              "hex": "#FFFFFF",
+              "id": "xE"
+            },
+            "price": 18990,
+            "imported": true,
+            "serie": {
+              "name": "1.5 dCi, Cx. A., 110 CV",
+              "id": "d02cc224-9570-30fe-9601-a741239a3f7b"
+            },
+            "model": {
+              "name": "Kadjar",
+              "id": "BgV"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_0f3728f7-9896-484c-aa4d-a4fa3eb67cde.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/0f3728f7-9896-484c-aa4d-a4fa3eb67cde.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_b1f21fec-1995-4e29-b52b-1facc52136c1.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/b1f21fec-1995-4e29-b52b-1facc52136c1.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_f568cd45-310c-4f35-b153-fdab444df22d.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/f568cd45-310c-4f35-b153-fdab444df22d.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_a93025d1-5e60-42d1-b34d-f273ab2ef54d.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/a93025d1-5e60-42d1-b34d-f273ab2ef54d.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_3d47ea0e-5795-43c1-879c-289c26ff19bf.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/3d47ea0e-5795-43c1-879c-289c26ff19bf.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_00ca8fd1-16ed-445c-b59d-db6c5c70c8b2.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/00ca8fd1-16ed-445c-b59d-db6c5c70c8b2.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_143f8b63-7c9e-456d-9c29-4bf747c15ad2.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/143f8b63-7c9e-456d-9c29-4bf747c15ad2.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "7",
+                "address": "Rua Sede do Clube",
+                "city": "Sintra",
+                "floor_number": "",
+                "postal_code": "2710-393"
+              },
+              "stand_url": "/stand/Xgv/rupelcar-lda",
+              "description_url": "rupelcar-lda",
+              "commercial_name": "Rupelcar lda",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "rupelcar-comercio-de-automoveisv-lda",
+                "name": "Rupelcar Comercio de Automoveisv lda",
+                "partner_credibom": false,
+                "company_url": "/company/dxW/rupelcar-comercio-de-automoveisv-lda",
+                "id": "dxW"
+              },
+              "id": "Xgv",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "917509655",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "968925888",
+                    "position": 2,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "rupelcar@netcabo.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.rupelcar.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "facebook/rupelcar",
+                    "position": 2,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Renault",
+              "id": "9M"
+            }
+          },
+          "sort": [
+            1634211956057,
+            1634211935107,
+            1634211956059,
+            "WpMv1"
+          ],
+          "index_id": "WpMv1"
+        },
+        {
+          "target": "VEHICLES",
+          "object": {
+            "vehicle_url": "/carros/usados/bRjpb/skoda-superb-1.6-tdi-diesel",
+            "images": [
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_29291f6d-de0d-411e-a012-10b2acc23d3e.jpg",
+                "position": 1,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/29291f6d-de0d-411e-a012-10b2acc23d3e.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_3b295b44-6e95-4b24-a063-e4b380c28f18.jpg",
+                "position": 2,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/3b295b44-6e95-4b24-a063-e4b380c28f18.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_3e5f9ad2-4aa4-41a2-9bb1-e120aa39c1fc.jpg",
+                "position": 3,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/3e5f9ad2-4aa4-41a2-9bb1-e120aa39c1fc.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_12d593f6-6632-452a-89d2-d15eca1cd43b.jpg",
+                "position": 4,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/12d593f6-6632-452a-89d2-d15eca1cd43b.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_36d41c4c-e07d-4fe0-b0ce-2322bf411437.jpg",
+                "position": 5,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/36d41c4c-e07d-4fe0-b0ce-2322bf411437.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_ee83a23f-2870-43f3-be02-7c727c80524f.jpg",
+                "position": 6,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/ee83a23f-2870-43f3-be02-7c727c80524f.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_3d585664-a5fd-4085-9f55-e7fb5e831188.jpg",
+                "position": 7,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/3d585664-a5fd-4085-9f55-e7fb5e831188.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_2c0e6492-a21f-48ce-a92e-976659f12178.jpg",
+                "position": 8,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/2c0e6492-a21f-48ce-a92e-976659f12178.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_ec551f4c-62cb-4c1d-9a72-56508c2def28.jpg",
+                "position": 9,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/ec551f4c-62cb-4c1d-9a72-56508c2def28.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_ea8428bc-7ef2-4f4e-8ebc-42fc9657a386.jpg",
+                "position": 10,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/ea8428bc-7ef2-4f4e-8ebc-42fc9657a386.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_0516def4-97d7-4f53-b2c5-4c9031a3f0d8.jpg",
+                "position": 11,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/0516def4-97d7-4f53-b2c5-4c9031a3f0d8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_2e1b32ac-eae4-4918-854b-72ca4b0206c8.jpg",
+                "position": 12,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/2e1b32ac-eae4-4918-854b-72ca4b0206c8.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_1584b075-b018-4a5a-b2c6-2a1f6833d03d.jpg",
+                "position": 13,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/1584b075-b018-4a5a-b2c6-2a1f6833d03d.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_c98f273a-b80c-4624-b7ae-82a18dcc5095.jpg",
+                "position": 14,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/c98f273a-b80c-4624-b7ae-82a18dcc5095.jpg"
+              },
+              {
+                "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/thumb_8136ec1b-c3fb-45e8-9d7a-45899d169670.jpg",
+                "position": 15,
+                "type": "IMAGE_TYPE",
+                "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/vehicle_bRjpb/8136ec1b-c3fb-45e8-9d7a-45899d169670.jpg"
+              }
+            ],
+            "description_url": "skoda-superb-1.6-tdi-diesel",
+            "fuel": {
+              "name": "Diesel",
+              "id": "mR"
+            },
+            "price_b2b": 18500,
+            "type": {
+              "name": "Carrinha",
+              "id": "bR"
+            },
+            "deductible_tax": false,
+            "register_month": 6,
+            "certification": false,
+            "kms": 133775,
+            "register_year": 2018,
+            "transmission": {
+              "name": "Automática",
+              "id": "xE"
+            },
+            "license_plate": "AH87EO",
+            "engine_information": {
+              "cylinder_capacity_cc": 1598,
+              "power_hp": 120
+            },
+            "nuts": {
+              "nuts3_name": "Área Metropolitana de Lisboa",
+              "code": "PT170",
+              "id": "Ry"
+            },
+            "exterior_color": {
+              "name": "Preto",
+              "hex": "#212121",
+              "id": "mR"
+            },
+            "price": 19500,
+            "imported": true,
+            "serie": {
+              "name": "1.6 TDI, Cx. A., 120 CV",
+              "id": "9beebb4e-5dd4-3875-b1af-46e88ec3e1cb"
+            },
+            "model": {
+              "name": "Superb",
+              "id": "M0P"
+            },
+            "stand": {
+              "images": [
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_0f3728f7-9896-484c-aa4d-a4fa3eb67cde.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/0f3728f7-9896-484c-aa4d-a4fa3eb67cde.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_b1f21fec-1995-4e29-b52b-1facc52136c1.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/b1f21fec-1995-4e29-b52b-1facc52136c1.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_f568cd45-310c-4f35-b153-fdab444df22d.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/f568cd45-310c-4f35-b153-fdab444df22d.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_a93025d1-5e60-42d1-b34d-f273ab2ef54d.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/a93025d1-5e60-42d1-b34d-f273ab2ef54d.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_3d47ea0e-5795-43c1-879c-289c26ff19bf.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/3d47ea0e-5795-43c1-879c-289c26ff19bf.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_00ca8fd1-16ed-445c-b59d-db6c5c70c8b2.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/00ca8fd1-16ed-445c-b59d-db6c5c70c8b2.jpg"
+                },
+                {
+                  "thumbnail": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/thumb_143f8b63-7c9e-456d-9c29-4bf747c15ad2.jpg",
+                  "position": 0,
+                  "type": "IMAGE_TYPE",
+                  "url": "https://static.piscapisca.pt/custom/companies/company_dxW/stand_Xgv/143f8b63-7c9e-456d-9c29-4bf747c15ad2.jpg"
+                }
+              ],
+              "address": {
+                "country": "Portugal",
+                "door_number": "7",
+                "address": "Rua Sede do Clube",
+                "city": "Sintra",
+                "floor_number": "",
+                "postal_code": "2710-393"
+              },
+              "stand_url": "/stand/Xgv/rupelcar-lda",
+              "description_url": "rupelcar-lda",
+              "commercial_name": "Rupelcar lda",
+              "company": {
+                "partner_apdca": false,
+                "home_delivery": true,
+                "covid19_safe_badge": false,
+                "description_url": "rupelcar-comercio-de-automoveisv-lda",
+                "name": "Rupelcar Comercio de Automoveisv lda",
+                "partner_credibom": false,
+                "company_url": "/company/dxW/rupelcar-comercio-de-automoveisv-lda",
+                "id": "dxW"
+              },
+              "id": "Xgv",
+              "contacts": {
+                "contacts": [
+                  {
+                    "code": "QxQ",
+                    "contact": "917509655",
+                    "position": 1,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "QxQ",
+                    "contact": "968925888",
+                    "position": 2,
+                    "type": "PHONE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "email",
+                    "contact": "rupelcar@netcabo.pt",
+                    "position": 1,
+                    "type": "EMAIL",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "website",
+                    "contact": "www.rupelcar.pt",
+                    "position": 1,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  },
+                  {
+                    "code": "facebook",
+                    "contact": "facebook/rupelcar",
+                    "position": 2,
+                    "type": "WEBSITE",
+                    "notify_lead": false
+                  }
+                ]
+              }
+            },
+            "brand": {
+              "name": "Skoda",
+              "id": "mRR"
+            }
+          },
+          "sort": [
+            1634211782248,
+            1634211765523,
+            1634211782249,
+            "bRjpb"
+          ],
+          "index_id": "bRjpb"
+        }
+      ]
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.piscapisca.pt/search/filter",
+        "title": "Search Entities with Filter",
+        "type": "POST"
+      }
+    }
+  }
