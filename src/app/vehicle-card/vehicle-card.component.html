@@ -1,39 +1,66 @@
-<div class="vehicle-card d-flex" [ngClass]="{'selected': selected}">
-  <div class="margin-r-16">
-    <img class="vehicle-image" [src]="vehicle.image">
-  </div>
-  <div class="margin-r-16">
-    <div class="por-publicar">Por Publicar</div>
-    <div class="azul-escuro">{{vehicle.make}} <b>{{vehicle.model}}</b></div>
-    <div class="azul-escuro"><b>{{vehicle.series}}</b></div>
-    <div class="info-text">
-      <span>{{vehicle.year}}</span>
-      <span class="divisor"></span>
-      <span>{{vehicle.kms}} kms</span>
-      <span class="divisor"></span>
-      <span>{{vehicle.licensePlate}}</span>
-      <span class="divisor"></span>
-      <span>ID {{vehicle.id}}</span>
+<div class="vehicle-card" [ngClass]="{'selected': selected}">
+  <div class="d-flex">
+    <div class="me-3">
+      <img class="vehicle-image" [src]="vehicle.image">
+    </div>
+    <div class="me-md-3 me-auto">
+      <div class="por-publicar">Por Publicar</div>
+      <div class="azul-escuro">{{vehicle.make}} <b>{{vehicle.model}}</b></div>
+      <div class="azul-escuro"><b>{{vehicle.series}}</b></div>
+      <div class="d-none d-md-block"><ng-container *ngTemplateOutlet="infoTemplate"></ng-container></div>
+    </div>
+    <div class="ms-auto d-flex d-md-none">
+      <ng-container *ngTemplateOutlet="checkboxTemplate"></ng-container>
+    </div>
+    <div class="ms-auto d-none d-md-flex flex-column">
+      <div class="text-end">
+        <ng-container *ngTemplateOutlet="checkboxTemplate"></ng-container>
+      </div>
+      <ng-container *ngTemplateOutlet="pricesTemplate"></ng-container>
+      <div class="mt-auto">
+        <ng-container *ngTemplateOutlet="buttonTemplate"></ng-container>
+      </div>
     </div>
   </div>
-  <div class="ms-auto d-flex flex-column">
-    <div class="text-end">
-      <input class="form-check-input" type="checkbox" [(ngModel)]="selected">
-    </div>
-    <div>
-      <div class="price-label">Particulares</div>
-      <div class="price-value">{{vehicle.privatePrice}} €</div>
-    </div>
-    <div>
-      <div class="price-label">Profissionais</div>
-      <div class="price-value">{{vehicle.professionalPrice}} €</div>
-    </div>
-    <div class="mt-auto">
-      <a class="btn btn-primary edit-btn" [routerLink]="[ '/edit/', vehicle.id]">Editar</a>
-    </div>
+  <div class="mb-2 d-md-none">
+    <ng-container *ngTemplateOutlet="infoTemplate"></ng-container>
   </div>
-
-<!--  {{ vehicle | json }}-->
+  <div class="d-flex d-md-none mb-2">
+    <ng-container *ngTemplateOutlet="pricesTemplate"></ng-container>
+  </div>
+  <div class="text-end d-md-none">
+    <ng-container *ngTemplateOutlet="buttonTemplate"></ng-container>
+  </div>
 </div>
 
+<ng-template #infoTemplate>
+  <div class="info-text">
+    <span>{{vehicle.year}}</span>
+    <span class="divisor"></span>
+    <span>{{vehicle.kms}} kms</span>
+    <span class="divisor"></span>
+    <span>{{vehicle.licensePlate}}</span>
+    <span class="divisor"></span>
+    <span>ID {{vehicle.id}}</span>
+  </div>
+</ng-template>
+
+<ng-template #checkboxTemplate>
+  <input class="form-check-input" type="checkbox" [(ngModel)]="selected">
+</ng-template>
+
+<ng-template #pricesTemplate>
+  <div class="flex-fill pe-1 pe-md-0">
+    <div class="price-label">Particulares</div>
+    <div class="price-value">{{vehicle.privatePrice}} €</div>
+  </div>
+  <div class="flex-fill ps-1 ps-md-0">
+    <div class="price-label">Profissionais</div>
+    <div class="price-value">{{vehicle.professionalPrice}} €</div>
+  </div>
+</ng-template>
+
+<ng-template #buttonTemplate>
+  <a class="btn btn-primary edit-btn" [routerLink]="[ '/edit/', vehicle.id]">Editar</a>
+</ng-template>
 
